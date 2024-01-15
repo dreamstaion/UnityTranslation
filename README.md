@@ -15,6 +15,10 @@ Unity 的中文版由一个中英文对照表进行翻译，所以插件做的�
 
 <img width="555" alt="image" src="https://github.com/liu-shx/UnityTranslation/assets/90260874/6243710b-58b6-4c53-9619-473b0b5e3420">
 
+## 主界面
+
+<img width="503" alt="image" src="https://github.com/liu-shx/UnityTranslation/assets/90260874/325ba0a1-302f-4845-8723-00590644ef75">
+
 ## 使用步骤
 1. 在`Unity Hub`中，为编辑器添加中文模块
 
